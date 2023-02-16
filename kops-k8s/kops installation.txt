@@ -1,8 +1,7 @@
-<<kops
-Ibrehima Keita Devops Engineer US -Silver Spring 
 
-kops
-Setup Kubernetes (K8s) Cluster on AWS Using KOPS
+Author: Ibrehima Keita Devops Engineer US -Silver Spring 
+
+kopsSetup Kubernetes (K8s) Cluster on AWS Using KOPS
 
 #!/bin/bash
 #1) Create Ubuntu EC2 instance
